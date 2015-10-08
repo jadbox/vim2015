@@ -1,4 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/home/jdunlap/github/vidroll/reportal/controllers'
-let g:netrw_dirhist_2='/home/jdunlap/github/vidroll/reportal'
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/jdunlap/github/vidroll/rxjs-aws/lib'
+let g:netrw_dirhist_2='/home/jdunlap/github/vidroll/rxjs-aws'
+let g:netrw_dirhist_3='/home/jdunlap/github/vidroll/rxjs-aws/lib'
+let g:netrw_dirhist_4='/home/jdunlap/github/vidroll/reportal/views2'
+let g:netrw_dirhist_5='/home/jdunlap/.vim/bundle/rust.vim'
