@@ -1,0 +1,18 @@
+# 
+#deb http://dl.google.com/linux/chrome/deb/ stable main
+
+# deb cdrom:[Debian GNU/Linux 8.1.0 _Jessie_ - Official amd64 DVD Binary-1 20150606-14:19]/ jessie contrib main
+
+#deb cdrom:[Debian GNU/Linux 8.1.0 _Jessie_ - Official amd64 DVD Binary-1 20150606-14:19]/ jessie contrib main
+
+deb http://mirror.picosecond.org/debian/ jessie main non-free contrib
+deb http://mirror.picosecond.org/debian/ testing main non-free contrib
+deb-src http://mirror.picosecond.org/debian/ jessie main
+
+deb http://security.debian.org/ jessie/updates main contrib
+deb-src http://security.debian.org/ jessie/updates main contrib
+
+# jessie-updates, previously known as 'volatile'
+deb http://mirror.picosecond.org/debian/ jessie-updates main contrib
+deb-src http://mirror.picosecond.org/debian/ jessie-updates main contrib
+deb http://http.debian.net/debian jessie-backports main

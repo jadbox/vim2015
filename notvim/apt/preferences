@@ -1,0 +1,27 @@
+Package: *
+Pin: release o=Debian, n=jessie
+Pin-Priority: 1001
+
+Package: virtualbox*
+Pin: release o=Debian,a=testing
+Pin-Priority: 1002
+
+Package: i3*
+Pin: release o=Debian,a=testing
+Pin-Priority: 1002
+
+Package: i3
+Pin: release o=Debian,a=testing
+Pin-Priority: 1002
+
+Package: httpie
+Pin: release o=Debian,a=testing
+Pin-Priority: 1002
+
+Package: zsh*
+Pin: release o=Debian,a=testing
+Pin-Priority: 1002
+
+Package: nodejs*
+Pin: release o=Debian,a=testing
+Pin-Priority: 1002
