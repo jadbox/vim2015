@@ -30,3 +30,7 @@ autocmd FileType html noremap <buffer> <c-f> :call HtmlBeautify()<cr>
 autocmd FileType css noremap <buffer> <c-f> :call CSSBeautify()<cr>
 set t_Co=256  " make use of 256 terminal colors
 color summerfruit256
+
+set backupdir=~/.vim/backup_files//,/tmp//,.
+set directory=~/.vim/swap_files//,/tmp//,.
+set undodir=~/.vim/undo_files//,/tmp//,.
